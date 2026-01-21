@@ -1,2 +1,27 @@
-# cloud-hr-compensation-reporting
-Cloud-based HR Compensation &amp; Reporting System simulating real-world SaaS client implementation with SQL reporting and QA validation.
+# Cloud HR Compensation & Reporting System
+
+## Overview
+This project simulates a real-world cloud-based HR SaaS system focused on employee compensation, payroll processing, and HR reporting.
+
+## Objectives
+- Manage employee compensation data
+- Generate payroll and HR reports using SQL
+- Simulate SaaS client implementation workflow
+- Validate reports using QA checks
+
+## Key Features (Planned)
+- Role-based access (HR, Admin, Management)
+- Centralized cloud data storage
+- SQL-driven payroll and compensation reports
+- Configuration-based company setup (SaaS-style)
+- QA validation for report accuracy
+
+## Tech Stack (Planned)
+- Backend: Node.js + Express
+- Database: SQL (PostgreSQL / MySQL)
+- Frontend: React
+- Reporting: Advanced SQL Queries
+- QA: Manual validation & test cases
+
+## Project Status
+🟡 Phase 0 – Repository & VS Code setup completed
