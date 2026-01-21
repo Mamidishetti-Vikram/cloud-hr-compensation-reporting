@@ -11,3 +11,9 @@ for the HR Compensation & Reporting System.
 ## Notes
 The schema is designed to support payroll calculations,
 department-wise reporting, and future scalability.
+
+## Schema Status
+
+The initial version of the HR compensation schema has been implemented.
+It supports employee identity management, compensation history tracking,
+and payroll execution.

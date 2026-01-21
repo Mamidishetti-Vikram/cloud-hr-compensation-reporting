@@ -25,3 +25,9 @@ This project simulates a real-world cloud-based HR SaaS system focused on employ
 
 ## Project Status
 🟡 Phase 0 – Repository & VS Code setup completed
+🟡 Phase 1: Professional project structure completed
+🟡 Phase 2: HR compensation database schema designed
+    - Employees, departments, roles
+    - Compensation history support
+    - Payroll execution layer
+
