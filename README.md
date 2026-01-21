@@ -30,4 +30,7 @@ This project simulates a real-world cloud-based HR SaaS system focused on employ
     - Employees, departments, roles
     - Compensation history support
     - Payroll execution layer
+🟡 Phase 3: Sample HR data and QA validation added
+    - Realistic employee, compensation, and payroll data
+    - Validation queries and test cases for payroll accuracy
 

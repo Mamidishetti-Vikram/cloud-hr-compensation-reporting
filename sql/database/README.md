@@ -17,3 +17,7 @@ department-wise reporting, and future scalability.
 The initial version of the HR compensation schema has been implemented.
 It supports employee identity management, compensation history tracking,
 and payroll execution.
+
+## Data Status
+
+Sample HR data has been added to support reporting and validation.
