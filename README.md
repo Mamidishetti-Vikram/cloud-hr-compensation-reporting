@@ -33,4 +33,11 @@ This project simulates a real-world cloud-based HR SaaS system focused on employ
 🟡 Phase 3: Sample HR data and QA validation added
     - Realistic employee, compensation, and payroll data
     - Validation queries and test cases for payroll accuracy
+    
+## Reporting & Validation
+
+- Implemented HR and payroll SQL reports
+- Validated results using structured QA test cases
+- Designed for real-world SaaS HR analytics use cases
+
 
