@@ -34,10 +34,18 @@ This project simulates a real-world cloud-based HR SaaS system focused on employ
     - Realistic employee, compensation, and payroll data
     - Validation queries and test cases for payroll accuracy
     
-## Reporting & Validation
+## Reporting 
 
 - Implemented HR and payroll SQL reports
-- Validated results using structured QA test cases
 - Designed for real-world SaaS HR analytics use cases
 
+## Execution & Validation
 
+- Database: MySQL 8 (Docker)
+- Schema executed on live database
+- Sample HR data inserted
+- Payroll and HR reports executed
+- QA test cases validated
+
+
+- The project follows a SQL-first approach to ensure reporting accuracy before application-layer development
